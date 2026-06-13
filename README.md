@@ -12,6 +12,8 @@ Welcome to the **Discord Display Name Styles** cross-language document workspace
 # Join Our discord
 - [KyronixStuido](https://discord.gg/FBUEj8daSk)
 
+---
+
 This project documents the underlying experimental capabilities of modern Discord Profile APIs, including custom fonts, border/glow effects, selective coloring, name layouts, rate limiting, and startup discovery.
 
 ---
