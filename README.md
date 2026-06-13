@@ -3,9 +3,14 @@
 Welcome to the **Discord Display Name Styles** cross-language document workspace. This workspace holds the exhaustive documentation, prompt lists, specifications, and code blueprints for implementing custom profile and displayName-styling systems inside modern Discord bots.
 
 ## Credits & Verification
-- **Host / Main Server Partner**: `KyronixStudio`
-- **High Partner**: `dray.me`
+- **Created & maintained by**: [KyronixStudio](https://github.com/kyronixstudio)
+- **Dev**: `dray.me`,`6fck`
 
+---
+## GlowFor Nodejs It will apply in all guild 
+- [GlowforNodejs](https://github.com/kyronixstudio/GlowForNodejs)
+
+---
 This project documents the underlying experimental capabilities of modern Discord Profile APIs, including custom fonts, border/glow effects, selective coloring, name layouts, rate limiting, and startup discovery.
 
 ---
