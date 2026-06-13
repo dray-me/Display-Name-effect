@@ -76,4 +76,4 @@ All language folders contain matching sub-files detailing aspects of the system:
 - **Experiments**: Discusses Discord rollouts, future security flags, and the smart discovery engine fallback behavior.
 - **Compatibility**: Outlines library helpers, CJS modules, Python package setups, and typing constraints.
 
-Select a target folder to get started with the source code and configuration setup!
+Select a target folder to get started with the source code and configuration setup!!
