@@ -96,3 +96,4 @@ All language folders contain matching sub-files detailing aspects of the system:
 
 Select a target folder to get started with the source code and configuration setup!
 
+##  © KYRONIX STUDIO & DREY & RURU ALL RIGHTS RESERVED 
